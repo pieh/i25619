@@ -1,0 +1,9 @@
+{
+  "name": "gatsby-theme-foo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby-plugin-layout": "^1.3.10"
+  }
+}
